@@ -1,4 +1,4 @@
-package cs.nsu.edu.ir;
+package cs.nsu.edu.ir.activities;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -8,6 +8,8 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import cs.nsu.edu.ir.R;
 
 public class SplashActivity extends AppCompatActivity {
 
